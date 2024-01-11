@@ -172,7 +172,3 @@ Firefox
 
 
 
-![image](https://github.com/Jaiah5/restorganic-discover-the-range/assets/126175694/82273ee5-032c-4f46-b801-f4e469cb3b4b)
-
-
-
